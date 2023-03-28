@@ -1,0 +1,122 @@
+[
+{
+    "model": "channels.channel",
+    "pk": 1,
+    "fields": {
+        "language": "ES",
+        "picture": "copyright.png",
+        "name": "Entertainment",
+        "parent": null,
+        "position": 1,
+        "path": "0000",
+        "public": false,
+        "content": []
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 22,
+    "fields": {
+        "language": "ES",
+        "picture": "placeholder.png",
+        "name": "Movies",
+        "parent": 1,
+        "position": 1,
+        "path": "00000000",
+        "public": false,
+        "content": []
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 25,
+    "fields": {
+        "language": "EN",
+        "picture": "placeholder.png",
+        "name": "TV_Shows",
+        "parent": 1,
+        "position": 1,
+        "path": "00000001",
+        "public": false,
+        "content": []
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 29,
+    "fields": {
+        "language": "ES",
+        "picture": "placeholder.png",
+        "name": "TWD: S1:E1",
+        "parent": 33,
+        "position": 1,
+        "path": "0000000100000000",
+        "public": false,
+        "content": [
+            2
+        ]
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 33,
+    "fields": {
+        "language": "EN",
+        "picture": "placeholder.png",
+        "name": "TWD",
+        "parent": 25,
+        "position": 1,
+        "path": "000000010000",
+        "public": false,
+        "content": []
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 35,
+    "fields": {
+        "language": "EN",
+        "picture": "placeholder.png",
+        "name": "LOTR: The fellowship",
+        "parent": 36,
+        "position": 1,
+        "path": "0000000000000000",
+        "public": false,
+        "content": [
+            4,
+            5,
+            7
+        ]
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 36,
+    "fields": {
+        "language": "EN",
+        "picture": "placeholder.png",
+        "name": "Lord of the Rings",
+        "parent": 22,
+        "position": 1,
+        "path": "000000000000",
+        "public": false,
+        "content": []
+    }
+},
+{
+    "model": "channels.channel",
+    "pk": 37,
+    "fields": {
+        "language": "ES",
+        "picture": "placeholder.png",
+        "name": "Narnia",
+        "parent": 22,
+        "position": 1,
+        "path": "000000000001",
+        "public": false,
+        "content": [
+            1
+        ]
+    }
+}
+]

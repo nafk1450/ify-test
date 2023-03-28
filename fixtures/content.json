@@ -1,0 +1,68 @@
+[
+{
+    "model": "content.content",
+    "pk": 1,
+    "fields": {
+        "file": "Immfly_Backend_Test_-_Django-mj8edzypsfydjkmb4bbswbzxne.pdf",
+        "rating": "7.2",
+        "description": "Without description",
+        "author": "Unknown author",
+        "genre": "Unknown genre"
+    }
+},
+{
+    "model": "content.content",
+    "pk": 2,
+    "fields": {
+        "file": "requirements.txt",
+        "rating": "7.6",
+        "description": "Without description",
+        "author": "Unknown author",
+        "genre": "Unknown genre"
+    }
+},
+{
+    "model": "content.content",
+    "pk": 3,
+    "fields": {
+        "file": "Immfly_Backend_Test_-_Django-mj8edzypsfydjkmb4bbswbzxne_kPFNttA.pdf",
+        "rating": "6.5",
+        "description": "Without description",
+        "author": "Unknown author",
+        "genre": "Unknown genre"
+    }
+},
+{
+    "model": "content.content",
+    "pk": 4,
+    "fields": {
+        "file": "Immfly_Backend_Test_-_Django-mj8edzypsfydjkmb4bbswbzxne_B1DEXji.pdf",
+        "rating": "6.0",
+        "description": "Without description",
+        "author": "Unknown author",
+        "genre": "Unknown genre"
+    }
+},
+{
+    "model": "content.content",
+    "pk": 5,
+    "fields": {
+        "file": "Immfly_Backend_Test_-_Django-mj8edzypsfydjkmb4bbswbzxne_1nRK4Bs.pdf",
+        "rating": "6.0",
+        "description": "Without description",
+        "author": "Unknown author",
+        "genre": "Unknown genre"
+    }
+},
+{
+    "model": "content.content",
+    "pk": 7,
+    "fields": {
+        "file": "Immfly_Backend_Test_-_Django-mj8edzypsfydjkmb4bbswbzxne_oxu5xzS.pdf",
+        "rating": "2.0",
+        "description": "Without description",
+        "author": "Unknown author",
+        "genre": "Unknown genre"
+    }
+}
+]
