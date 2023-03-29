@@ -15,3 +15,8 @@ python manage.py migrate
 python manage.py loaddata fixtures/content.json --app content.Content
 
 python manage.py loaddata fixtures/channels.json --app channels.Channel
+
+
+pgadmin -> http://localhost:5051/
+
+djangoadmin -> http://0.0.0.0:8000/admin/
